@@ -1,7 +1,7 @@
 import { ethers } from 'ethers';
 
-export const CONTRACT_ADDRESS = '0xfD34112A46355A0969F8383bE7C4f19c6546828d';
-export const CHAIN_ID = 59141;
+export const CONTRACT_ADDRESS = '0x41eA4a3297A93970736AD2E789ce7c1f135610B8';
+export const CHAIN_ID = 656476;
 
 export const CONTRACT_ABI = [
 	{
